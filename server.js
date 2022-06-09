@@ -24,6 +24,7 @@ function getData() {
         adress: "Meetupstreet5, 12345 Meetup City",
         description:
           "This is an amazing meetup which you definitely should not miss.",
+        isFavorite: false,
       },
       {
         id: "m2",
@@ -33,6 +34,7 @@ function getData() {
         adress: "Meetupstreet5, 12345 Meetup City",
         description:
           "This is an amazing meetup which you definitely should not miss.",
+        isFavorite: false,
       },
       {
         id: "m3",
@@ -41,6 +43,7 @@ function getData() {
         adress: "Meetupstreet5, 12345 Meetup City",
         description:
           "This is an amazing meetup which you definitely should not miss.",
+        isFavorite: false,
       },
       {
         id: "m4",
@@ -49,6 +52,7 @@ function getData() {
         adress: "Meetupstreet5, 12345 Meetup City",
         description:
           "This is an amazing meetup which you definitely should not miss.",
+        isFavorite: false,
       },
       {
         id: "m5",
@@ -57,6 +61,7 @@ function getData() {
         adress: "Meetupstreet5, 12345 Meetup City",
         description:
           "This is an amazing meetup which you definitely should not miss.",
+        isFavorite: false,
       },
     ],
     accounts: [
